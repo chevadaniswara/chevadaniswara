@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, Cheva Daniswra</h1>
+<h1 align="center">Hi there 👋, I'm Cheva Daniswra</h1>
 <h3 align="center">Computer Science student specialized in Front-End Technology</h3>
 
 - 🔭 I’m currently working on **a state community protection agency website**
