@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cheva Daniswra</h1>
+<h1 align="center">Hi there 👋, Cheva Daniswra</h1>
 <h3 align="center">Computer Science student specialized in Front-End Technology</h3>
 
 - 🔭 I’m currently working on **a state community protection agency website**
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Javascript and Tailwind**
 
-- 📫 How to reach me **daniswaraasep@gmail.com**
+- 📫 Feel free to contact me at **daniswaraasep@gmail.com**
 
 - ⚡ Fun fact **I also excel at design and motiongraphics**
 
